@@ -28,7 +28,7 @@ An intelligent **AI-powered assistant** that supports both **voice and text inpu
 
 ## 📸 Demo
 
-assets/AI.png 
+![AI Assistant](assets/AI.png) 
 
 ---
 
