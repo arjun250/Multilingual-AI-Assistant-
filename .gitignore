@@ -1,0 +1,4 @@
+.env
+speech.mp3
+logs/
+__pycache__/
